@@ -1,6 +1,6 @@
 # Hey there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="goncalofverissimo's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=goncalofverissimo&show_icons=true&theme=tokyonight" /></a>
+<img src="https://camo.githubusercontent.com/a22f067dbe9472e959fa8322b1aae024e7a7e5bffaac11c2330d8c80354e9f7d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d61737261746f26636f6c6f723d626230303030" data-canonical-src="https://komarev.com/ghpvc/?username=goncalofverissimo&amp;color=bb0000" style="max-width: 100%;">
 
 I’m Gonçalo Veríssimo, a tech enthusiast with a bachelor's degree in computer science and engineering.
 
