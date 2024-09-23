@@ -66,6 +66,6 @@ I have ambitious goals for my future and always approach life with a positive mi
 </a>
 
 <a href="https://github.com/goncalofverissimo" target="_blank">
-  <img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png"   
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png"   
  alt="GitHub" width="50">
 </a>
