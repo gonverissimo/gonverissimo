@@ -61,7 +61,7 @@ I have ambitious goals for my future and always approach life with a positive mi
 ### Social
 
 <a href="https://www.linkedin.com/in/goncaloverissimopt" target="_blank">
-  <img src="https://w7.pngwing.com/pngs/46/539/png-transparent-linkedin-logo-media-sns-social-social-links-icon.png"   
+  <img src="https://static.vecteezy.com/system/resources/previews/023/986/970/original/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png"   
  alt="LinkedIn" width="50">
 </a>
 
