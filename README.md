@@ -12,9 +12,15 @@ I have ambitious goals for my future and always approach life with a positive mi
 
 
 
+
+
+
 ### Stats
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalofverissimo&layout=compact&theme=omni)
+
+
+
 
 
 
