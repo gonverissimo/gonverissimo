@@ -65,6 +65,6 @@ I have ambitious goals for my future and always approach life with a positive mi
  alt="LinkedIn" width="50">
 </a>
 
-<img src="https://img.icons8.com/ios-filled/50/000000/mail.png"  
+<img src="https://img.icons8.com/ios-filled/50/ffffff/mail.png"  
   alt="Email" width="50">
 </a>
