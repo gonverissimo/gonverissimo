@@ -66,6 +66,6 @@ I have ambitious goals for my future and always approach life with a positive mi
 </a>
 
 <a href="mailto:gonverissimo@outlook.pt" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mail/mail-original.svg"  
+   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Email_icon.svg"  
   alt="Email" width="50">
 </a>
