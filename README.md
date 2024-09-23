@@ -31,11 +31,15 @@ I have ambitious goals for my future and always approach life with a positive mi
 <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" height="30">
 <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white" height="30">
 
-## Social
+
+---
+
+
+### Social
 
 <a href="https://www.linkedin.com/in/goncaloverissimopt/">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/logoColor=white" height="30">
 </a>
 <a href="https://github.com/goncalofverissimo">
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" height="30">
+  <img src="https://img.shields.io/badge/logo=github" height="30">
 </a>
