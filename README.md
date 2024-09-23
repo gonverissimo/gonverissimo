@@ -22,14 +22,16 @@ I have ambitious goals for my future and always approach life with a positive mi
 ---
 
 
-### Main Skills
+### Best Skills
 
-<img src="https://img.shields.io/badge/Outsystems-EF3A2D?style=flat&logo=outsystems&logoColor=white" height="30"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="30">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" height="30">
+[![OutSystems](https://www.outsystems.com/assets/img/outsystems-logo.svg)](https://www.outsystems.com/)
+[![JavaScript](https://img.shields.io/badge/javascript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)   
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html)   
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)   
+[![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![PostgreSQL](https://www.postgresql.org/about/logos/postgresql-logo-110.png)](https://www.postgresql.org/)
+[![Java](https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
+
 
 
 ---
@@ -37,9 +39,5 @@ I have ambitious goals for my future and always approach life with a positive mi
 
 ### Social
 
-<a href="https://www.linkedin.com/in/goncaloverissimopt/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="30">
-</a>
-<a href="https://github.com/goncalofverissimo">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" height="30">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goncaloverissimopt)   
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/goncalofverissimo)
