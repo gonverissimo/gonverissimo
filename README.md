@@ -24,7 +24,7 @@ I have ambitious goals for my future and always approach life with a positive mi
 
 ### Best Skills
 
-[![OutSystems](https://img.shields.io/badge/&nbsp;-blue?style=flat-square&logo=outsystems&logoColor=white)](https://www.outsystems.com/)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/outsystems/outsystems-original.svg" alt="outsystems" width="30">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30">
 
