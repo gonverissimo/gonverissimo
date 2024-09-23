@@ -1,5 +1,7 @@
 # Hey there 👋
 
+![Profile views](https://shields.io/badge/Profile%20views-123-blue)
+
 I’m Gonçalo Veríssimo, a tech enthusiast with a bachelor's degree in computer science and engineering.
 
 I have a strong preference for software engineering and low-code development, especially OutSystems.
