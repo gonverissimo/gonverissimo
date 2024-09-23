@@ -11,8 +11,7 @@ I have ambitious goals for my future and always approach life with a positive mi
 - 📚 There you can check some projects I've done out of the degree [projects](/projects)
 
 
-
-
+---
 
 
 ### Stats
@@ -20,8 +19,7 @@ I have ambitious goals for my future and always approach life with a positive mi
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalofverissimo&layout=compact&theme=omni)
 
 
-
-
+---
 
 
 ### Main Skills
