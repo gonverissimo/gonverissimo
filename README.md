@@ -25,7 +25,7 @@ I have ambitious goals for my future and always approach life with a positive mi
 ### Best Skills
 
 <a href="https://www.outsystems.com" target="_blank">
-  <img src="https://outsystems.com/homepage/assets/images/logo.svg"  
+  <img src="https://www.outsystems.com/-/media/images/homepage/2024/hero/ring-hero.svg?updated=20240325192448"  
   alt="OutSystems" width="50">
 </a>
 
