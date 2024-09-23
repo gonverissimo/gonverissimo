@@ -54,12 +54,6 @@ I have ambitious goals for my future and always approach life with a positive mi
 </a>
 
 
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"
-  width="50">   
-</a>
-
-
 <a href="https://www.oracle.com/java/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"   
  alt="Java" width="50">
