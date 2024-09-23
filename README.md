@@ -37,14 +37,15 @@ I have ambitious goals for my future and always approach life with a positive mi
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"   
  alt="HTML5" width="30">
 </a>
+
 <a href="https://www.w3schools.com/css/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"   
  alt="CSS3" width="30">
 </a>
+
 <a href="https://www.postgresql.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"   
- alt="PostgreSQL"   
- width="30">
+ alt="PostgreSQL" width="30">
 </a>
 
 
