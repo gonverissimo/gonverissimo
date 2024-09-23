@@ -1,6 +1,6 @@
 # Hey there 👋
 
-![Profile views](https://shields.io/badge/Profile%20views-red)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="goncalofverissimo's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=goncalofverissimo&show_icons=true&theme=tokyonight" /></a>
 
 I’m Gonçalo Veríssimo, a tech enthusiast with a bachelor's degree in computer science and engineering.
 
