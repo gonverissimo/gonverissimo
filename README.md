@@ -10,13 +10,15 @@ I have ambitious goals for my future and always approach life with a positive mi
 - 🎓 All of my projects done throughout my degree are available at [University](/University)
 - 📚 There you can check some projects I've done out of the degree [projects](/projects)
 
-## Stats
+
+
+### Stats
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalofverissimo&layout=compact&theme=omni)
 
 
 
-## Main Skills
+### Main Skills
 
 <img src="https://img.shields.io/badge/-Outsystems-EF3A2D?style=flat&logo=outsystems" height="30"> 
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="30">
