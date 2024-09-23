@@ -24,10 +24,10 @@ I have ambitious goals for my future and always approach life with a positive mi
 
 ### Main Skills
 
-<img src="https://img.shields.io/badge/-Outsystems-EF3A2D?style=flat&logo=outsystems" height="30"> 
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="30">
+<img src="https://img.shields.io/badge/Outsystems-?style=flat&logo=outsystems" height="30"> 
+<img src="https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=black" height="30">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="30">
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" height="30">
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="30">
 <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" height="30">
 <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white" height="30">
 
@@ -38,8 +38,8 @@ I have ambitious goals for my future and always approach life with a positive mi
 ### Social
 
 <a href="https://www.linkedin.com/in/goncaloverissimopt/">
-  <img src="https://img.shields.io/badge/logoColor=white" height="30">
+  <img src="https://simpleicons.org/icons/linkedin.svg" height="30">
 </a>
 <a href="https://github.com/goncalofverissimo">
-  <img src="https://img.shields.io/badge/logo=github" height="30">
+  <img src="https://simpleicons.org/icons/github.svg" height="30">
 </a>
