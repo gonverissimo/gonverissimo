@@ -60,11 +60,17 @@ I have ambitious goals for my future and always approach life with a positive mi
 
 ### Social
 
+<a href="https://github.com/goncalofverissimo" target="_blank">
+  <img src="https://img.icons8.com/material-outlined/50/ffffff/github.png"  
+  alt="GitHub" width="50">
+</a>
+
 <a href="https://www.linkedin.com/in/goncaloverissimopt" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"    
  alt="LinkedIn" width="50">
 </a>
 
+<a href="mailto:gonverissimo@outlook.pt" target="_blank">
 <img src="https://img.icons8.com/ios-filled/50/ffffff/mail.png"  
   alt="Email" width="50">
 </a>
