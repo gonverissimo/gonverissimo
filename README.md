@@ -1,6 +1,6 @@
 # Hey there 👋
 
-![Profile views](https://shields.io/badge/Profile%20views-123-blue)
+![Profile views](https://shields.io/badge/Profile%20views-red)
 
 I’m Gonçalo Veríssimo, a tech enthusiast with a bachelor's degree in computer science and engineering.
 
