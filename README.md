@@ -24,15 +24,20 @@ I have ambitious goals for my future and always approach life with a positive mi
 
 ### Best Skills
 
+<a href="https://success.outsystems.com/Documentation/11/Developing_an_Application/How_to/Create_an_Application" target="_blank">
+  <img src="https://www.outsystems.com/assets/img/outsystems-logo.svg" alt="OutSystems"
+  width="30">
+</a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"   
  width="30">
 </a>
+
 <a href="https://www.python.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30">   
-
 </a>
+
 <a href="https://www.w3schools.com/html/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"   
  alt="HTML5" width="30">
