@@ -7,8 +7,8 @@ I have a strong preference for software engineering and low-code development, es
 Originally from Setúbal, I have spent the last four years studying in Évora.
 I have ambitious goals for my future and always approach life with a positive mindset. I aspire to travel the world, experiencing new cultures and customs along the way.
 
-- 🎓 All of my projects done throughout my degree are available at [University](https://github.com/goncalofverissimo/University)
-- 📚 There you can check some projects I've done out of the degree [projects](https://github.com/goncalofverissimo/projects)
+- 🎓 All of my projects done throughout my degree: [University](https://github.com/goncalofverissimo/University)
+- 📚 Some projects I've done out of the degree: [projects](https://github.com/goncalofverissimo/projects)
 
 
 ---
