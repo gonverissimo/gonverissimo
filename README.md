@@ -65,7 +65,6 @@ I have ambitious goals for my future and always approach life with a positive mi
  alt="LinkedIn" width="50">
 </a>
 
-<a href="mailto:gonverissimo@outlook.pt" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/e-mail/e-mail-original.svg"
-  alt="Email" width="50">
+** &nbsp;**  <a href="mailto:gonverissimo@outlook.pt" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/e-mail/e-mail-original.svg" alt="Email" width="50">
 </a>
