@@ -25,8 +25,7 @@ I have ambitious goals for my future and always approach life with a positive mi
 ### Best Skills
 
 <a href="https://www.outsystems.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/outsystems/outsystems-original.svg" alt="OutSystems"
-  width="30">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tools/lowcode.svg" alt="OutSystems (Low-Code)" width="30">
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
