@@ -12,8 +12,10 @@ I have ambitious goals for my future and always approach life with a positive mi
 
 ## Stats
 
-| Most Used Languages | 
-| ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalofverissimo&repo=University&layout=compact&theme=omni&hide=kotlin) |
+| Most Used Languages                                                                                         | 
+| ------------------------------------------------------------------------------------------------------------|
+| ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalofverissimo&repo=University&layout=compact&theme=omni) |
+
 
 ## Main Skills
 
