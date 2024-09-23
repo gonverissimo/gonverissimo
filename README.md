@@ -7,7 +7,7 @@ I have a strong preference for software engineering and low-code development, es
 Originally from Setúbal, I have spent the last four years studying in Évora.
 I have ambitious goals for my future and always approach life with a positive mindset. I aspire to travel the world, experiencing new cultures and customs along the way.
 
-- 🎓 Todos os meus projetos realizados ao longo do meu curso estão disponíveis em [University](https://github.com/goncalofverissimo/University)
+- 🎓 All of my projects done throughout my degree are available at [University](https://github.com/goncalofverissimo/University)
 - 📚 There you can check some projects I've done out of the degree [projects](https://github.com/goncalofverissimo/projects)
 
 
@@ -58,5 +58,12 @@ I have ambitious goals for my future and always approach life with a positive mi
 
 ### Social
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goncaloverissimopt)   
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/goncalofverissimo)
+<a href="https://www.linkedin.com/in/goncaloverissimopt" target="_blank">
+  <img src="https://static.vecteezy.com/system/resources/previews/023/986/970/original/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png"   
+ alt="LinkedIn" width="30">
+</a>
+
+<a href="https://github.com/goncalofverissimo" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png"   
+ alt="GitHub" width="30">
+</a>
