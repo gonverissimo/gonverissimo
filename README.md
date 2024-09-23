@@ -24,12 +24,18 @@ I have ambitious goals for my future and always approach life with a positive mi
 
 ### Best Skills
 
-<img src="https://www.outsystems.com/assets/img/outsystems-logo.svg" alt="OutSystems" width="30">
+[![OutSystems](https://img.shields.io/badge/&nbsp;-blue?style=flat-square&logo=outsystems&logoColor=white)](https://www.outsystems.com/)
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30">
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30">
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30">
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30">
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30">
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30">
 
 
