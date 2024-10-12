@@ -6,7 +6,7 @@ Hey! I’m Gonçalo Veríssimo, a tech enthusiast with a Bachelor's degree in Co
 
 I have a strong preference for software engineering, cybersecurity area and low-code development, especially OutSystems.
 
-Originally from Setúbal, I have spent the last four years studying in Évora.
+Originally from Setúbal, I have spent the last four years studying in Évora (2020-2024).
 Currently I'm doing a Master's degree in Software Engineering at Instituto Politécnico de Setúbal.
 
 I have ambitious goals for my future and always approach life with a positive mindset. I aspire to travel the world, experiencing new cultures and customs along the way.
