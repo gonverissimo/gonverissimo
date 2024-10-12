@@ -2,11 +2,13 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=goncalofverissimo&color=bb0000)
 
-I’m Gonçalo Veríssimo, a tech enthusiast with a bachelor's degree in computer science and engineering.
+Hey! I’m Gonçalo Veríssimo, a tech enthusiast with a Bachelor's degree in Computer Science and Engineering.
 
-I have a strong preference for software engineering and low-code development, especially OutSystems.
+I have a strong preference for software engineering, cybersecurity area and low-code development, especially OutSystems.
 
 Originally from Setúbal, I have spent the last four years studying in Évora.
+Currently I'm doing a Master's degree in Software Engineering at Instituto Politécnico de Setúbal.
+
 I have ambitious goals for my future and always approach life with a positive mindset. I aspire to travel the world, experiencing new cultures and customs along the way.
 
 - 🎓 All of my projects done throughout my degree: [university](https://github.com/goncalofverissimo/university) (message me to have access)
