@@ -11,7 +11,7 @@ Currently I'm doing a Master's degree in Software Engineering at Instituto Polit
 
 I have ambitious goals for my future and always approach life with a positive mindset. I aspire to travel the world, experiencing new cultures and customs along the way.
 
-- 🎓 All of my projects done throughout my degree: [university](https://github.com/goncalofverissimo/university) (message me to have access)
+- 🎓 All of my projects done throughout my degree: [university](https://github.com/goncalofverissimo/university) (ask me to have access)
 - 📚 Some projects I've done out of the degree: [projects](https://github.com/goncalofverissimo/projects)
 
 
