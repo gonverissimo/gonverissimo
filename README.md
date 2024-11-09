@@ -4,12 +4,6 @@
 
 Hey! I’m Gonçalo Veríssimo, a tech enthusiast with a Bachelor's degree in Computer Science and Engineering.
 
-I prioritize Software Engineering and Cybersecurity in my career interests.
-
-Currently I'm doing a Master's degree in Software Engineering at Instituto Politécnico de Setúbal.
-
-I have ambitious goals for my future and always approach life with a positive mindset
-
 - 🎓 All of my projects done throughout my degree: [university](https://github.com/goncalofverissimo/university) (ask me to have access)
 - 📚 Some projects I've done out of the degree: [projects](https://github.com/goncalofverissimo/projects)
 
