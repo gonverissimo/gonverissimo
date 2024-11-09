@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=goncalofverissimo&color=bb0000)
 
-Hey! I’m Gonçalo Veríssimo, a tech enthusiast with a Bachelor's degree in Computer Science and Engineering.
+Hey! I’m Gonçalo Veríssimo and I have a Bachelor's degree in Computer Science and Engineering.
 
 - 🎓 All of my projects done throughout my degree: [university](https://github.com/goncalofverissimo/university) (ask me to have access)
 - 📚 Some projects I've done out of the degree: [projects](https://github.com/goncalofverissimo/projects)
