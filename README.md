@@ -4,8 +4,11 @@
 
 Hey! I’m Gonçalo Veríssimo and I have a Bachelor's degree in Computer Science and Engineering.
 
-- 🎓 All of my projects done throughout my degree: [university](https://github.com/goncalofverissimo/university) (ask me to have access)
+- 🎓 All of my projects done throughout my degree: [university](https://github.com/goncalofverissimo/university)
 - 📚 Some projects I've done out of the degree: [projects](https://github.com/goncalofverissimo/projects)
+- 🖥️ My Portfolio [portfolio](https://github.com/goncalofverissimo/portfolio) and a front-end react app that I made on my own initiative [react-app](https://github.com/goncalofverissimo/react-app)
+
+If you want to see all my projects ask me to have access to the private repositories.
 
 
 ---
