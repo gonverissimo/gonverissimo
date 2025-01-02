@@ -6,8 +6,6 @@ Hey! I’m Gonçalo Veríssimo and I have a Bachelor's degree in Computer Scienc
 
 - 📚 Some projects I've done out of the degree: [projects](https://github.com/goncalofverissimo/projects)
 
-If you want to see all my projects ask me to have access to the private repositories.
-
 
 ---
 
