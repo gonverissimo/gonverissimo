@@ -54,11 +54,6 @@ Hey! I’m Gonçalo Veríssimo and I have a Bachelor's degree in Computer Scienc
 
 ### Social
 
-<a href="https://github.com/goncalofverissimo" target="_blank">
-  <img src="https://img.icons8.com/material-outlined/50/ffffff/github.png"  
-  alt="GitHub" width="50">
-</a>
-
 <a href="https://www.linkedin.com/in/goncaloverissimopt" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"    
  alt="LinkedIn" width="50">
