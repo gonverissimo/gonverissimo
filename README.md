@@ -1,13 +1,5 @@
 ![Profile views](https://komarev.com/ghpvc/?username=goncalofverissimo&color=bb0000)
 
-### Stats
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalofverissimo&layout=compact&theme=omni)
-
-
----
-
-
 ### Best Skills
 
 <a href="https://www.outsystems.com" target="_blank">
