@@ -1,5 +1,3 @@
-# Hey there 👋
-
 ![Profile views](https://komarev.com/ghpvc/?username=goncalofverissimo&color=bb0000)
 
 ### Stats
