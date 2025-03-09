@@ -23,8 +23,9 @@
 </a>
 
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Microsoft_Excel_2013-2019_logo.svg"  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/excel/excel-original.svg"  
   alt="Excel" width="50">
+</a>
 
 ---
 
