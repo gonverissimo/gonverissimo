@@ -18,15 +18,13 @@
 </a>
 
 <a href="https://powerbi.microsoft.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg"  
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"  
   alt="Power BI" width="50">
 </a>
 
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Office_Excel_%282019-present%29.svg"  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Microsoft_Excel_2013-2019_logo.svg"  
   alt="Excel" width="50">
-</a>
-
 
 ---
 
