@@ -22,10 +22,6 @@
   alt="Power BI" width="50">
 </a>
 
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/excel/excel-original.svg"  
-  alt="Excel" width="50">
-</a>
 
 ---
 
