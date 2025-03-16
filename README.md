@@ -40,14 +40,3 @@
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"  
   alt="Power BI" width="50">
 </a>
-
-
----
-
-
-### Social
-
-<a href="https://www.linkedin.com/in/goncaloverissimopt" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"    
- alt="LinkedIn" width="50">
-</a>
