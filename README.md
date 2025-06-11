@@ -47,7 +47,9 @@ I'm a passionate Software Engineer specialising in SQL Server technologies. I wo
 <a href="https://ocaml.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg" alt="OCaml" width="50" />
 </a>
-- [Assembly](https://en.wikipedia.org/wiki/Assembly_language)
+<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
+  <img src="https://img.icons8.com/ios/452/assembly-language.png" alt="Assembly" width="50" />
+</a>
 <a href="https://www.outsystems.com/" target="_blank">
   <img src="https://www.outsystems.com/favicon.ico" alt="OutSystems" width="50" />
 </a>
