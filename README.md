@@ -36,7 +36,6 @@ I'm a passionate Software Engineer specialising in SQL Server technologies. I wo
   alt="Power BI" width="50">
 </a>
 
-
-![Gonçalo Veríssimo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gonverissimo&show_icons=true&theme=radical&count_private=true)
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonverissimo&layout=compact&theme=radical)
