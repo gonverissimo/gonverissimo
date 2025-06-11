@@ -4,7 +4,7 @@
 
 I'm a passionate Software Engineer specialising in SQL Server technologies. I work extensively with SQL, T-SQL, Power BI and SSMS to build efficient database solutions, automate tasks and deliver insightful data analysis.
 
-## Currently working on
+## Currently working on:
 - Advanced T-SQL and database optimisation
 - SQL Server performance tuning
 - Power BI data modelling and visualisation
