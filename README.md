@@ -36,7 +36,7 @@ I'm a passionate Software Engineer specialising in SQL Server technologies. I wo
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" />
 </a>
 
-
+<br>
 
 <a href="https://www.postgresql.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" />
