@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=goncalofverissimo&color=bb0000)
+
 # Hi 👋, I'm Gonçalo Veríssimo
 
 I'm a passionate Software Engineer specialising in SQL Server technologies. I work extensively with SQL, T-SQL, Power BI, and SSMS to build efficient database solutions, automate tasks, and deliver insightful data analysis.
@@ -35,6 +37,3 @@ I'm a passionate Software Engineer specialising in SQL Server technologies. I wo
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"  
   alt="Power BI" width="50">
 </a>
-
-<!-- linha em branco aqui -->
-![Profile views](https://komarev.com/ghpvc/?username=goncalofverissimo&color=bb0000)
