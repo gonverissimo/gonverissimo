@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Gonçalo Veríssimo
 
-I'm a passionate Software Engineer specialising in SQL Server technologies. I work extensively with SQL, T-SQL, Power BI, and SSMS to build efficient database solutions, automate tasks, and deliver insightful data analysis.
+I'm a passionate Software Engineer specialising in SQL Server technologies. I work extensively with SQL, T-SQL, Power BI and SSMS to build efficient database solutions, automate tasks and deliver insightful data analysis.
 
 ## Currently learning
 - Advanced T-SQL and database optimisation
