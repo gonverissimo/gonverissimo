@@ -14,8 +14,6 @@ I'm a passionate Software Engineer specialising in SQL Server technologies. I wo
 - Database design and optimisation
 - Data analysis and reporting
 
-![Profile views](https://komarev.com/ghpvc/?username=goncalofverissimo&color=bb0000)
-
 ### Best Skills
 
 <a href="https://www.w3schools.com/sql/" target="_blank">
@@ -37,3 +35,5 @@ I'm a passionate Software Engineer specialising in SQL Server technologies. I wo
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"  
   alt="Power BI" width="50">
 </a>
+
+![Profile views](https://komarev.com/ghpvc/?username=goncalofverissimo&color=bb0000)
