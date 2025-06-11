@@ -5,9 +5,9 @@
 I'm a passionate Software Engineer specialising in SQL Server technologies. I work extensively with SQL, T-SQL, Power BI and SSMS to build efficient database solutions, automate tasks and deliver insightful data analysis.
 
 ## Currently working on:
-- Advanced T-SQL and database optimisation
-- SQL Server performance tuning
-- Power BI data modelling and visualisation
+- Advanced T-SQL and database optimisation;
+- SQL Server performance tuning;
+- Power BI data modelling and visualisation.
 
 ## Languages I have worked with before:
 
@@ -65,11 +65,11 @@ I'm a passionate Software Engineer specialising in SQL Server technologies. I wo
 </a>
 
 ## Best Skills
-- SQL & T-SQL
-- Microsoft SQL Server & SSMS
-- Database design and optimisation
-- Power BI
-- Data analysis and reporting
+- SQL & T-SQL;
+- Microsoft SQL Server & SSMS;
+- Database design and optimisation;
+- Power BI;
+- Data analysis and reporting.
 
 <a href="https://www.w3schools.com/sql/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"  
