@@ -16,6 +16,8 @@ I'm a passionate Software Engineer specialising in SQL Server technologies. I wo
 - Power BI
 - Data analysis and reporting
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonverissimo&layout=compact&theme=radical)
+
 <a href="https://www.w3schools.com/sql/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"  
   alt="SQL" width="50">
@@ -35,7 +37,3 @@ I'm a passionate Software Engineer specialising in SQL Server technologies. I wo
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"  
   alt="Power BI" width="50">
 </a>
-
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonverissimo&layout=compact&theme=radical)
