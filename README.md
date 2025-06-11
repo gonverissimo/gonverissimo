@@ -32,6 +32,9 @@ I'm a passionate Software Engineer specialising in SQL Server technologies. I wo
 <a href="https://kotlinlang.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" />
 </a>
+<a href="https://developer.android.com/studio" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" />
+</a>
 <a href="https://www.postgresql.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" />
 </a>
