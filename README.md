@@ -9,7 +9,53 @@ I'm a passionate Software Engineer specialising in SQL Server technologies. I wo
 - SQL Server performance tuning
 - Power BI data modelling and visualisation
 
-## Skills & Tools
+## Languages I have worked with before:
+
+<a href="https://www.w3schools.com/js/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" />
+</a>
+<a href="https://www.w3schools.com/html/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" />
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" />
+</a>
+<a href="https://www.oracle.com/java/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" />
+</a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" />
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" />
+</a>
+<a href="https://kotlinlang.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" />
+</a>
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" />
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" />
+</a>
+<a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="50" />
+</a>
+<a href="https://www.swi-prolog.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original.svg" alt="Prolog" width="50" />
+</a>
+<a href="https://ocaml.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg" alt="OCaml" width="50" />
+</a>
+<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg" alt="Assembly" width="50" />
+</a>
+<a href="https://www.outsystems.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/outsystems/outsystems-original.svg" alt="OutSystems" width="50" />
+</a>
+
+
+## Best Skills
 - SQL & T-SQL
 - Microsoft SQL Server & SSMS
 - Database design and optimisation
