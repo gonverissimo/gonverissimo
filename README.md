@@ -7,9 +7,9 @@
   alt="SQL" width="50">
 </a>
 
-<a href="https://learn.microsoft.com/en-us/sql/" target="_blank">
+<a href="https://learn.microsoft.com/pt-pt/training/modules/get-started-transact-sql-programming/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
-  alt="SQL Server" width="50">
+  alt="T-SQL" width="50">
 </a>
 
 <a href="https://www.python.org" target="_blank">
