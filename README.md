@@ -37,6 +37,3 @@ I'm a passionate Software Engineer specialising in SQL Server technologies. I wo
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"  
   alt="Power BI" width="50">
 </a>
-
-![GitHub language count](https://img.shields.io/github/languages/count/gonverissimo/sql-cookbock)
-![Repo size](https://img.shields.io/github/repo-size/gonverissimo/sql-cookbook)
