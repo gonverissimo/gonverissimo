@@ -50,6 +50,10 @@ I'm a passionate Software Engineer specialising in SQL Server technologies. I wo
 <a href="https://www.outsystems.com/" target="_blank">
   <img src="https://www.outsystems.com/favicon.ico" alt="OutSystems" width="50" />
 </a>
+<a href="https://powerbi.microsoft.com/" target="_blank">
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"  
+  alt="Power BI" width="50">
+</a>
 
 ## Best Skills
 - SQL & T-SQL
