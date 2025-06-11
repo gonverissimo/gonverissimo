@@ -35,3 +35,8 @@ I'm a passionate Software Engineer specialising in SQL Server technologies. I wo
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"  
   alt="Power BI" width="50">
 </a>
+
+
+![Gonçalo Veríssimo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gonverissimo&show_icons=true&theme=radical&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonverissimo&layout=compact&theme=radical)
