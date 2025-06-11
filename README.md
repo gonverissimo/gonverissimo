@@ -6,14 +6,14 @@ I'm a passionate Software Engineer specialising in SQL Server technologies. I wo
 
 ## Currently learning
 - Advanced T-SQL and database optimisation
-- Power BI data modelling and visualisation
 - SQL Server performance tuning
+- Power BI data modelling and visualisation
 
 ## Skills & Tools
 - SQL & T-SQL
 - Microsoft SQL Server & SSMS
-- Power BI
 - Database design and optimisation
+- Power BI
 - Data analysis and reporting
 
 ### Best Skills
