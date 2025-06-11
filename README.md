@@ -36,5 +36,5 @@ I'm a passionate Software Engineer specialising in SQL Server technologies. I wo
   alt="Power BI" width="50">
 </a>
 
-
+<!-- linha em branco aqui -->
 ![Profile views](https://komarev.com/ghpvc/?username=goncalofverissimo&color=bb0000)
