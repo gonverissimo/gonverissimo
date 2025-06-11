@@ -16,8 +16,6 @@ I'm a passionate Software Engineer specialising in SQL Server technologies. I wo
 - Power BI
 - Data analysis and reporting
 
-### Best Skills
-
 <a href="https://www.w3schools.com/sql/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"  
   alt="SQL" width="50">
