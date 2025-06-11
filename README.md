@@ -48,12 +48,11 @@ I'm a passionate Software Engineer specialising in SQL Server technologies. I wo
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg" alt="OCaml" width="50" />
 </a>
 <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg" alt="Assembly" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Assembly-language.svg" alt="Assembly" width="50" />
 </a>
 <a href="https://www.outsystems.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/outsystems/outsystems-original.svg" alt="OutSystems" width="50" />
+  <img src="https://www.outsystems.com/favicon.ico" alt="OutSystems" width="50" />
 </a>
-
 
 ## Best Skills
 - SQL & T-SQL
