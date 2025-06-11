@@ -50,6 +50,9 @@ I'm a passionate Software Engineer specialising in SQL Server technologies. I wo
 <a href="https://ocaml.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg" alt="OCaml" width="50" />
 </a>
+<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
+  <img src="https://user-images.githubusercontent.com/5421823/62779159-4cf76880-baaa-11e9-8318-e20a1aaa913a.png" alt="x86-64 Assembly" width="50" />
+</a>
 <a href="https://www.outsystems.com/" target="_blank">
   <img src="https://www.outsystems.com/favicon.ico" alt="OutSystems" width="50" />
 </a>
