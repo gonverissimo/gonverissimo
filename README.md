@@ -75,8 +75,7 @@ I'm a Master's student in Software Engineering with a Bachelor's in Computer Sci
 - Data analysis and reporting.
 
 <a href="https://www.w3schools.com/sql/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"  
-  alt="SQL" width="50">
+  <img src="https://cdn.worldvectorlogo.com/logos/sql-5.svg" alt="SQL" width="50">
 </a>
 
 <a href="https://learn.microsoft.com/pt-pt/training/modules/get-started-transact-sql-programming/" target="_blank">
