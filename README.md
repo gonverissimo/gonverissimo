@@ -10,7 +10,7 @@ I'm a Master's student in Software Engineering with a Bachelor's in Computer Sci
 - Building efficient database solutions;
 - Automate tasks;
 - Power BI data modelling and visualisation;
-- Deliver insightful data analysis.
+- Delivering insightful data analysis.
 
 ## Languages I have worked with before:
 
