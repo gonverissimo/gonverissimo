@@ -3,12 +3,14 @@
 # Hi 👋, I'm Gonçalo Veríssimo
 
 I'm a Master's student in Software Engineering with a Bachelor's in Computer Science and Engineering.
-I work extensively with SQL, T-SQL, SSMS and Power BI to build efficient database solutions, automate tasks and deliver insightful data analysis.
 
 ## Currently working on:
 - Advanced T-SQL and database optimisation;
 - SQL Server performance tuning;
-- Power BI data modelling and visualisation.
+- Building efficient database solutions;
+- Automate tasks;
+- Power BI data modelling and visualisation;
+- Deliver insightful data analysis.
 
 ## Languages I have worked with before:
 
