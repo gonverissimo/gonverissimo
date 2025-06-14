@@ -4,14 +4,6 @@
 
 I'm a Master's student in Software Engineering with a Bachelor's in Computer Science and Engineering.
 
-## Currently working on:
-- Advanced T-SQL and database optimisation;
-- SQL Server performance tuning;
-- Building efficient database solutions;
-- Automate tasks;
-- Power BI data modelling and visualisation;
-- Delivering insightful data analysis.
-
 ## Languages I have worked with before:
 
 <a href="https://www.w3schools.com/js/" target="_blank">
@@ -69,10 +61,11 @@ I'm a Master's student in Software Engineering with a Bachelor's in Computer Sci
 
 ## Best Skills
 - SQL & T-SQL;
-- Microsoft SQL Server & SSMS;
-- Database design and optimisation;
-- Power BI;
-- Data analysis and reporting.
+- Microsoft SQL Server
+- SSMS, SSIS, SSRS;
+- Database Management;
+- Data analysis and reporting;
+- Power BI.
 
 <a href="https://learn.microsoft.com/pt-pt/training/modules/get-started-transact-sql-programming/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
