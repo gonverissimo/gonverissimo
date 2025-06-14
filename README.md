@@ -4,7 +4,7 @@
 
 I'm a Master's student in Software Engineering with a Bachelor's in Computer Science and Engineering.
 
-## Programming languages I have worked with during academic projects:
+## Languages I have used in academic projects:
 
 <a href="https://www.w3schools.com/js/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" />
