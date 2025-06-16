@@ -61,7 +61,7 @@ I'm a Master's student in Software Engineering with a Bachelor's in Computer Sci
 
 ## Best Skills
 - SQL & T-SQL;
-- Microsoft SQL Server
+- Microsoft SQL Server;
 - SSMS, SSIS, SSRS;
 - Database Management;
 - Data analysis and reporting;
