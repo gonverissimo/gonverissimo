@@ -59,28 +59,5 @@ I'm a Master's student in Software Engineering with a Bachelor's in Computer Sci
   alt="Power BI" width="50">
 </a>
 
-## Best Skills
-- SQL & T-SQL;
-- Microsoft SQL Server;
-- SSMS, SSIS, SSRS;
-- Database Management;
-- Data analysis and reporting;
-- Power BI.
-
-<a href="https://learn.microsoft.com/pt-pt/training/modules/get-started-transact-sql-programming/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
-  alt="T-SQL" width="50">
-</a>
-
-<a href="https://www.python.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  
-  alt="Python" width="50">
-</a>
-
-<a href="https://powerbi.microsoft.com/" target="_blank">
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"  
-  alt="Power BI" width="50">
-</a>
-
 ## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonverissimo&layout=compact&theme=radical)
 
