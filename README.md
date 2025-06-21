@@ -1,8 +1,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=goncalofverissimo&color=bb0000)
 
-# Hi 👋, I'm Gonçalo Veríssimo
+# Hi 👋, I'm Gonçalo
 
-I'm a Master's student in Software Engineering with a Bachelor's in Computer Science and Engineering.
+Master's student in Software Engineering.
 
 ## Technologies and Languages Used in Academic Projects:
 
