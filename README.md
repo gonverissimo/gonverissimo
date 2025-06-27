@@ -2,8 +2,6 @@
 
 # Hi 👋, I'm Gonçalo
 
-Master's student in Software Engineering.
-
 ## Technologies and Languages Used in Academic Projects:
 
 <a href="https://www.w3schools.com/js/" target="_blank">
