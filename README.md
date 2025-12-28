@@ -13,24 +13,12 @@
 <a href="https://www.w3schools.com/css/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" />
 </a>
-<a href="https://www.oracle.com/java/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" />
-</a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" />
 </a>
 <a href="https://www.python.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" />
 </a>
-<a href="https://kotlinlang.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" />
-</a>
-<a href="https://developer.android.com/studio" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" />
-</a>
-
-<br>
-
 <a href="https://www.postgresql.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" />
 </a>
@@ -39,15 +27,6 @@
 </a>
 <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="50" />
-</a>
-<a href="https://www.swi-prolog.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original.svg" alt="Prolog" width="50" />
-</a>
-<a href="https://ocaml.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg" alt="OCaml" width="50" />
-</a>
-<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
-  <img src="https://user-images.githubusercontent.com/5421823/62779159-4cf76880-baaa-11e9-8318-e20a1aaa913a.png" alt="x86-64 Assembly" width="50" />
 </a>
 <a href="https://www.outsystems.com/" target="_blank">
   <img src="https://www.outsystems.com/favicon.ico" alt="OutSystems" width="50" />
