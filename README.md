@@ -57,5 +57,3 @@
   alt="Power BI" width="50">
 </a>
 
-## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonverissimo&layout=compact&theme=radical)
-
