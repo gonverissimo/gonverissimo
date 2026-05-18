@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Gonçalo
 
-## Main Stack
+## Main Stack:
 
 ### Databases & SQL
 - SQL Server
