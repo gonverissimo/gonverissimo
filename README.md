@@ -2,10 +2,6 @@
 
 # Hi 👋, I'm Gonçalo
 
-I'm a Data Engineer focused on SQL development, ETL processes and reporting solutions.
-I work mainly with relational databases, SQL Server, SSIS, SSRS, Power BI and Excel, building data pipelines, automating reports and supporting data analysis.
-I'm also expanding my experience with modern data platforms such as Databricks, combining SQL and Python for scalable data engineering workflows.
-
 ## Main Stack
 
 ### Databases & SQL
