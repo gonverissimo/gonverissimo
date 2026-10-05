@@ -56,13 +56,6 @@ My day-to-day work involves developing, maintaining and monitoring data solution
 
 ## 🛠️ Core Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="50" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" />
-  &nbsp;&nbsp;
-</p>
-
 **Databases**
 - Microsoft SQL Server
 - PostgreSQL
