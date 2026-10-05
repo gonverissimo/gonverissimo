@@ -61,7 +61,6 @@ My day-to-day work involves developing, maintaining and monitoring data solution
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" />
   &nbsp;&nbsp;
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="Power BI" width="50" />
 </p>
 
 **Databases**
